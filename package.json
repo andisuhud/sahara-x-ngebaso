@@ -1,0 +1,8 @@
+{
+  "name": "sahara-x-ngebaso",
+  "version": "1.0.0",
+  "description": "Smart Order, POS & Thermal Receipt System for SAHARA x Ngebaso",
+  "scripts": {
+    "start": "serve ."
+  }
+}
